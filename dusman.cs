@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using TMPro;
 
-public class enemy : MonoBehaviour
+public class dusman : MonoBehaviour
 {
 
    
